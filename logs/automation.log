@@ -1,0 +1,4 @@
+13:25:19.054 [main] INFO  testCases.TC002_LoginTest {36} *********Starting the TC002 Login Test***************
+13:25:19.282 [main] INFO  testCases.TC002_LoginTest {36} *********Clicked MyAccount***************
+13:25:19.763 [main] INFO  testCases.TC002_LoginTest {36} *********Clicked LoginBTN***************
+13:25:21.232 [main] INFO  testCases.TC002_LoginTest {36} *********Finshed the TC002 Login Test***************
