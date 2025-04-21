@@ -1,0 +1,41 @@
+16:59:01.289 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:59:01.296 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /_rels/.rels
+16:59:01.349 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /xl/_rels/workbook.xml.rels
+16:59:01.351 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:59:01.353 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /_rels/.rels
+16:59:01.399 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /xl/_rels/workbook.xml.rels
+16:59:01.402 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:59:01.402 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /_rels/.rels
+16:59:01.459 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /xl/_rels/workbook.xml.rels
+16:59:01.462 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:59:01.469 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /_rels/.rels
+16:59:01.542 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /xl/_rels/workbook.xml.rels
+16:59:01.546 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:59:01.548 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /_rels/.rels
+16:59:01.645 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /xl/_rels/workbook.xml.rels
+16:59:01.647 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:59:01.647 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /_rels/.rels
+16:59:01.690 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /xl/_rels/workbook.xml.rels
+16:59:01.690 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:59:01.693 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /_rels/.rels
+16:59:01.733 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /xl/_rels/workbook.xml.rels
+16:59:01.735 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:59:01.735 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection {36} Parsing relationship: /_rels/.rels
+16:59:01.811 [main] INFO  testCases.TC003_LoginDDT {36} ************** Starting TC003_LoginDDT *****************
+16:59:02.054 [main] INFO  testCases.TC003_LoginDDT {36} *********Clicked MyAccount***************
+16:59:02.953 [main] INFO  testCases.TC003_LoginDDT {36} *********Clicked LoginBTN***************
+16:59:02.953 [main] INFO  testCases.TC003_LoginDDT {36} *********Created the LP Object***************
+16:59:03.245 [main] INFO  testCases.TC003_LoginDDT {36} *********Enter The email***************
+16:59:03.411 [main] INFO  testCases.TC003_LoginDDT {36} *********Enter The email_Password***************
+16:59:04.441 [main] INFO  testCases.TC003_LoginDDT {36} *********Looged In***************
+16:59:14.962 [main] INFO  testCases.TC003_LoginDDT {36} ************** Starting TC003_LoginDDT *****************
+16:59:15.090 [main] INFO  testCases.TC003_LoginDDT {36} *********Clicked MyAccount***************
+16:59:16.484 [main] INFO  testCases.TC003_LoginDDT {36} *********Clicked LoginBTN***************
+16:59:16.488 [main] INFO  testCases.TC003_LoginDDT {36} *********Created the LP Object***************
+16:59:16.713 [main] INFO  testCases.TC003_LoginDDT {36} *********Enter The email***************
+16:59:16.875 [main] INFO  testCases.TC003_LoginDDT {36} *********Enter The email_Password***************
+16:59:17.020 [main] INFO  testCases.TC003_LoginDDT {36} *********Looged In***************
+16:59:19.511 [main] INFO  testCases.TC003_LoginDDT {36} ************** Starting TC003_LoginDDT *****************
+16:59:19.666 [main] INFO  testCases.TC003_LoginDDT {36} *********Clicked MyAccount***************
+16:59:20.165 [main] INFO  testCases.TC003_LoginDDT {36} *********Clicked LoginBTN***************
+16:59:20.166 [main] INFO  testCases.TC003_LoginDDT {36} *********Created the LP Object***************
